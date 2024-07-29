@@ -10,5 +10,4 @@
   - ❤️ Sistema de cura
   - ⚙ Surgimento automático de inimigos
 
-  ####  - Essas mecânicas foram feitas durante as aulas, mas adicionarei algumas outras por conta própria conforme achar necessário para testar meu conhecimento.
-  ####  - Também explorarei mais os assets, para montar um cenário com mais detalhes.
+  
